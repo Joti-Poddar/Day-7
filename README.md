@@ -1,0 +1,1 @@
+This notebook uses SQLite, Pandas, and Matplotlib to analyze mobile phone sales data. It creates a sales table, inserts sample data, and runs SQL queries to summarize total quantity sold and revenue per product.
